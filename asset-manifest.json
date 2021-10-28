@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TIL_react/static/css/main.b13f4086.chunk.css",
+    "main.js": "/TIL_react/static/js/main.916b851d.chunk.js",
+    "main.js.map": "/TIL_react/static/js/main.916b851d.chunk.js.map",
+    "runtime-main.js": "/TIL_react/static/js/runtime-main.4eab5e8e.js",
+    "runtime-main.js.map": "/TIL_react/static/js/runtime-main.4eab5e8e.js.map",
+    "static/js/2.1842c249.chunk.js": "/TIL_react/static/js/2.1842c249.chunk.js",
+    "static/js/2.1842c249.chunk.js.map": "/TIL_react/static/js/2.1842c249.chunk.js.map",
+    "index.html": "/TIL_react/index.html",
+    "static/css/main.b13f4086.chunk.css.map": "/TIL_react/static/css/main.b13f4086.chunk.css.map",
+    "static/js/2.1842c249.chunk.js.LICENSE.txt": "/TIL_react/static/js/2.1842c249.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eab5e8e.js",
+    "static/js/2.1842c249.chunk.js",
+    "static/css/main.b13f4086.chunk.css",
+    "static/js/main.916b851d.chunk.js"
+  ]
+}
